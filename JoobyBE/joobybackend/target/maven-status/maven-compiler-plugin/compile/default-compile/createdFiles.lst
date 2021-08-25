@@ -1,0 +1,4 @@
+app\App.class
+app\models\User.class
+app\Controller.class
+app\Controller$Module.class
